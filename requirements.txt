@@ -1,11 +1,5 @@
-To run the code, you need to install the following Python libraries:
-
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn (for the Iris dataset)
-
-You can install these libraries by running:
-
-```bash
-pip install -r requirements.txt
+```text
+pandas
+matplotlib
+seaborn
+scikit-learn
